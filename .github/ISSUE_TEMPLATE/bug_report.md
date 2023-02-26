@@ -19,7 +19,6 @@ assignees: Josh-65
 ## Screenshots/video <!-- Add a visual to help explain the issue -->
 
 
-## Versions  <!-- These can be found in discord settings on the bottom sidebar -->
-Discord:
-Better discord:
-Theme:
+## Versions
+Quest OS:
+Enviroment:
