@@ -1,4 +1,4 @@
-# Download
+## Download
 There are two ways to install the environment (Both require developer mode to be enabled on the Quest)
 
 ### Sidequest
@@ -15,7 +15,7 @@ There are two ways to install the environment (Both require developer mode to be
 
 
 <br></br>
-# Editing
+## Editing
 1. Download and install Blender 3.4 or greater
 2. Download the .blend file from the repository
 3. Open the .blend file with Blender
