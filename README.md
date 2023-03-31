@@ -2,7 +2,7 @@
 There are two ways to install the environment (Both require developer mode to be enabled on the Quest)
 
 ### Sidequest
-- To do  
+- https://sidequestvr.com/app/15039/custom-home-steam-vr-aurora-sky 
 
 ### ADB
 1. Download adb (android debugging bridge) (How to do so can be found on Google)
@@ -19,3 +19,4 @@ There are two ways to install the environment (Both require developer mode to be
 1. Download and install Blender 3.4 or greater
 2. Download the .blend file from the repository
 3. Open the .blend file with Blender
+4. Use [Enviroment builder](https://github.com/VinceCrusty/Quest-Homes-Environment-Converter/releases) to test your changes
