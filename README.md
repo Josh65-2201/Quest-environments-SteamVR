@@ -1,5 +1,7 @@
 ## Download
-There are two ways to install the environment (Both require developer mode to be enabled on the Quest)
+> [!Important]
+> Developer mode is requiered to be enabled on the Quest first
+> https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/#joining-or-creating-an-organization
 
 ### Sidequest
 - https://sidequestvr.com/app/15039/custom-home-steam-vr-aurora-sky 
@@ -16,7 +18,8 @@ There are two ways to install the environment (Both require developer mode to be
 
 <br></br>
 ## Editing
-1. Download and install Blender 3.4 or greater
+1. Download and install Blender 3.4 or above
 2. Download the .blend file from the repository
 3. Open the .blend file with Blender
-4. Use [Enviroment builder](https://github.com/VinceCrusty/Quest-Homes-Environment-Converter/releases) to test your changes
+4. Join this [Discord server](https://discord.com/invite/fY2aD9B)
+5. Use [Enviroment builder](https://discord.com/channels/667571798031859713) to test your changes
