@@ -1,3 +1,6 @@
+> [!important]
+> Now archived - Meta has removed the option to change the home environment as of v80 and is unlikely to add the option back.
+
 ![image](https://github.com/Josh65-2201/Quest-environments-SteamVR/blob/main/.github/preview.webp?raw=true)
 
 ## Download
