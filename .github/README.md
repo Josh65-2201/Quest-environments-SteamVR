@@ -1,11 +1,11 @@
 > [!important]
-> Now archived - Meta has removed the option to change the home environment as of v80 and is unlikely to add the option back.
+> Now un-archived - Meta has removed the option to change the home environment as of v80 and is unlikely to add the option back, but it is possible with root using [Singularity](https://github.com/Lumince/singularity) and possible other mods. Instructions below are not how to install anymore.
 
 ![image](https://github.com/Josh65-2201/Quest-environments-SteamVR/blob/main/.github/preview.webp?raw=true)
 
 ## Download
 > [!Important]
-> Developer mode is requiered to be enabled on the Quest first
+> Developer mode is required to be enabled on the Quest first
 > https://developers.meta.com/horizon/documentation/native/android/mobile-device-setup/#joining-or-creating-an-organization
 
 ### Sidequest
