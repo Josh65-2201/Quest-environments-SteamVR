@@ -1,2 +1,5 @@
 .vs
+Environment builder/**
+!Environment builder/Quest-Home-Editor-windows-x64.exe
 *.blend1
+*.glb
